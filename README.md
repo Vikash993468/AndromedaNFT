@@ -35,4 +35,3 @@ Explore the **AndromedaNFT** project and interact with the digital car assets di
 
 ---
 
-Feel free to modify the text to fit your exact vision, goals, and development progress!
