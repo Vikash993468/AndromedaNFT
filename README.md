@@ -29,6 +29,10 @@ Our long-term goal is to become the leading platform for car-based NFTs, preserv
 - **Metaverse Integration**: Enable CarNFTs to be used in various metaverse platforms, where users can display, trade, and interact with their NFTs in virtual environments.
 - **Sustainability Focus**: As the car industry moves toward sustainability, feature eco-friendly and electric car NFTs to highlight innovation in the automotive world.
 
+## Embeddable Link
+
+Explore the **AndromedaNFT** project and interact with the digital car assets directly through our [embeddable interface](https://embeddables.testnet.andromedaprotocol.io/galileo-4/carembeddable).
+
 ---
 
 Feel free to modify the text to fit your exact vision, goals, and development progress!
