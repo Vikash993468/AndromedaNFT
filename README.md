@@ -34,9 +34,3 @@ Our long-term goal is to become the leading platform for car-based NFTs, preserv
 Explore the **AndromedaNFT** project and interact with the digital car assets directly through our [embeddable interface](https://embeddables.testnet.andromedaprotocol.io/galileo-4/carembeddable).
 
 ---
-
-
-## Licensing
-
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
->>>>>>> origin/master
